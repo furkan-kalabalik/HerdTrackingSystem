@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"name": "Master-ESPNOW",
+			"path": "Master-ESPNOW"
+		},
+		{
+			"name": "Slave-ESPNOW",
+			"path": "Slave-ESPNOW"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"uart.h": "c",
+			"uart_register.h": "c",
+			"softuart.h": "c",
+			"user_interface.h": "c"
+		}
+	}
+}
