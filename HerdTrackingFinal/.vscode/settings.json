@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "location_utils.h": "c",
+        "master_comm.h": "c",
+        "softuart.h": "c"
+    }
+}

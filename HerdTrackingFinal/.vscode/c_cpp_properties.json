@@ -1,0 +1,66 @@
+//
+// !!! WARNING !!! AUTO-GENERATED FILE!
+// PLEASE DO NOT MODIFY IT AND USE "platformio.ini":
+// https://docs.platformio.org/page/projectconf/section_env_build.html#build-flags
+//
+{
+    "configurations": [
+        {
+            "name": "PlatformIO",
+            "includePath": [
+                "/home/furkan/esp/HerdTrackingFinal/include",
+                "/home/furkan/esp/HerdTrackingFinal/src",
+                "/home/furkan/.platformio/packages/framework-esp8266-nonos-sdk/include",
+                "/home/furkan/.platformio/packages/framework-esp8266-nonos-sdk/extra_include",
+                "/home/furkan/.platformio/packages/framework-esp8266-nonos-sdk/driver_lib/include",
+                "/home/furkan/.platformio/packages/framework-esp8266-nonos-sdk/include/espressif",
+                "/home/furkan/.platformio/packages/framework-esp8266-nonos-sdk/include/lwip",
+                "/home/furkan/.platformio/packages/framework-esp8266-nonos-sdk/include/lwip/ipv4",
+                "/home/furkan/.platformio/packages/framework-esp8266-nonos-sdk/include/lwip/ipv6",
+                "/home/furkan/.platformio/packages/framework-esp8266-nonos-sdk/include/nopoll",
+                "/home/furkan/.platformio/packages/framework-esp8266-nonos-sdk/include/ssl",
+                "/home/furkan/.platformio/packages/framework-esp8266-nonos-sdk/include/json",
+                "/home/furkan/.platformio/packages/framework-esp8266-nonos-sdk/include/openssl",
+                ""
+            ],
+            "browse": {
+                "limitSymbolsToIncludedHeaders": true,
+                "path": [
+                    "/home/furkan/esp/HerdTrackingFinal/include",
+                    "/home/furkan/esp/HerdTrackingFinal/src",
+                    "/home/furkan/.platformio/packages/framework-esp8266-nonos-sdk/include",
+                    "/home/furkan/.platformio/packages/framework-esp8266-nonos-sdk/extra_include",
+                    "/home/furkan/.platformio/packages/framework-esp8266-nonos-sdk/driver_lib/include",
+                    "/home/furkan/.platformio/packages/framework-esp8266-nonos-sdk/include/espressif",
+                    "/home/furkan/.platformio/packages/framework-esp8266-nonos-sdk/include/lwip",
+                    "/home/furkan/.platformio/packages/framework-esp8266-nonos-sdk/include/lwip/ipv4",
+                    "/home/furkan/.platformio/packages/framework-esp8266-nonos-sdk/include/lwip/ipv6",
+                    "/home/furkan/.platformio/packages/framework-esp8266-nonos-sdk/include/nopoll",
+                    "/home/furkan/.platformio/packages/framework-esp8266-nonos-sdk/include/ssl",
+                    "/home/furkan/.platformio/packages/framework-esp8266-nonos-sdk/include/json",
+                    "/home/furkan/.platformio/packages/framework-esp8266-nonos-sdk/include/openssl",
+                    ""
+                ]
+            },
+            "defines": [
+                "PLATFORMIO=50101",
+                "ESP8266",
+                "ARDUINO_ARCH_ESP8266",
+                "ARDUINO_ESP8266_NODEMCU",
+                "F_CPU=80000000L",
+                "__ets__",
+                "ICACHE_FLASH",
+                ""
+            ],
+            "cStandard": "c99",
+            "cppStandard": "c++11",
+            "compilerPath": "/home/furkan/.platformio/packages/toolchain-xtensa@1.40802.0/bin/xtensa-lx106-elf-gcc",
+            "compilerArgs": [
+                "-mlongcalls",
+                "-mtext-section-literals",
+                ""
+            ]
+        }
+    ],
+    "version": 4
+}
